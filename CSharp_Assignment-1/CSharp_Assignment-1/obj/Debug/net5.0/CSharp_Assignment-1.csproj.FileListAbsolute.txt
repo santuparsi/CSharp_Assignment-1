@@ -1,0 +1,16 @@
+D:\IIHT\Clients\SOCGEN\Batch3\Lab-Assingments\CSharp_Assignment-1\CSharp_Assignment-1\CSharp_Assignment-1\obj\Debug\net5.0\CSharp_Assignment-1.csproj.AssemblyReference.cache
+D:\IIHT\Clients\SOCGEN\Batch3\Lab-Assingments\CSharp_Assignment-1\CSharp_Assignment-1\CSharp_Assignment-1\obj\Debug\net5.0\CSharp_Assignment-1.GeneratedMSBuildEditorConfig.editorconfig
+D:\IIHT\Clients\SOCGEN\Batch3\Lab-Assingments\CSharp_Assignment-1\CSharp_Assignment-1\CSharp_Assignment-1\obj\Debug\net5.0\CSharp_Assignment-1.AssemblyInfoInputs.cache
+D:\IIHT\Clients\SOCGEN\Batch3\Lab-Assingments\CSharp_Assignment-1\CSharp_Assignment-1\CSharp_Assignment-1\obj\Debug\net5.0\CSharp_Assignment-1.AssemblyInfo.cs
+D:\IIHT\Clients\SOCGEN\Batch3\Lab-Assingments\CSharp_Assignment-1\CSharp_Assignment-1\CSharp_Assignment-1\obj\Debug\net5.0\CSharp_Assignment-1.csproj.CoreCompileInputs.cache
+D:\IIHT\Clients\SOCGEN\Batch3\Lab-Assingments\CSharp_Assignment-1\CSharp_Assignment-1\CSharp_Assignment-1\bin\Debug\net5.0\CSharp_Assignment-1.exe
+D:\IIHT\Clients\SOCGEN\Batch3\Lab-Assingments\CSharp_Assignment-1\CSharp_Assignment-1\CSharp_Assignment-1\bin\Debug\net5.0\CSharp_Assignment-1.deps.json
+D:\IIHT\Clients\SOCGEN\Batch3\Lab-Assingments\CSharp_Assignment-1\CSharp_Assignment-1\CSharp_Assignment-1\bin\Debug\net5.0\CSharp_Assignment-1.runtimeconfig.json
+D:\IIHT\Clients\SOCGEN\Batch3\Lab-Assingments\CSharp_Assignment-1\CSharp_Assignment-1\CSharp_Assignment-1\bin\Debug\net5.0\CSharp_Assignment-1.runtimeconfig.dev.json
+D:\IIHT\Clients\SOCGEN\Batch3\Lab-Assingments\CSharp_Assignment-1\CSharp_Assignment-1\CSharp_Assignment-1\bin\Debug\net5.0\CSharp_Assignment-1.dll
+D:\IIHT\Clients\SOCGEN\Batch3\Lab-Assingments\CSharp_Assignment-1\CSharp_Assignment-1\CSharp_Assignment-1\bin\Debug\net5.0\ref\CSharp_Assignment-1.dll
+D:\IIHT\Clients\SOCGEN\Batch3\Lab-Assingments\CSharp_Assignment-1\CSharp_Assignment-1\CSharp_Assignment-1\bin\Debug\net5.0\CSharp_Assignment-1.pdb
+D:\IIHT\Clients\SOCGEN\Batch3\Lab-Assingments\CSharp_Assignment-1\CSharp_Assignment-1\CSharp_Assignment-1\obj\Debug\net5.0\CSharp_Assignment-1.dll
+D:\IIHT\Clients\SOCGEN\Batch3\Lab-Assingments\CSharp_Assignment-1\CSharp_Assignment-1\CSharp_Assignment-1\obj\Debug\net5.0\ref\CSharp_Assignment-1.dll
+D:\IIHT\Clients\SOCGEN\Batch3\Lab-Assingments\CSharp_Assignment-1\CSharp_Assignment-1\CSharp_Assignment-1\obj\Debug\net5.0\CSharp_Assignment-1.pdb
+D:\IIHT\Clients\SOCGEN\Batch3\Lab-Assingments\CSharp_Assignment-1\CSharp_Assignment-1\CSharp_Assignment-1\obj\Debug\net5.0\CSharp_Assignment-1.genruntimeconfig.cache
